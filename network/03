@@ -1,0 +1,6 @@
+networksetup -listallhardwareports | egrep -A 2 "(AirPort|Wi-Fi)" | grep Ethernet | awk '{print $3}'
+
+# Identify the MAC address of the Wi-Fi card
+
+# or
+# ifconfig en1 | grep "ether" | cut -d " " -f 2

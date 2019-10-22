@@ -2,5 +2,7 @@ networksetup -listallhardwareports | egrep -A 2 "(AirPort|Wi-Fi)" | grep Etherne
 
 # Identify the MAC address of the Wi-Fi card
 
+# https://stackoverflow.com/questions/7973887/bash-script-to-display-mac-airport-mac-address
+
 # or
 # ifconfig en1 | grep "ether" | cut -d " " -f 2

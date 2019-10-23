@@ -1,0 +1,5 @@
+sudo service ssh restart
+
+# Name the command that reboots the SSH service.
+
+# https://ubuntugeeks.com/questions/10426/how-do-i-restart-the-ssh-service

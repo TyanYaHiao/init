@@ -1,0 +1,12 @@
+echo "
+syntax on
+set number
+set colorcolumn=80
+set clipboard=unnamedplus
+set cin
+set ruler
+set mouse=a
+set hidden
+" >> ~/.vimrc
+
+echo ".vimrc updated"

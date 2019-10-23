@@ -1,0 +1,5 @@
+ps aux
+
+# Name the command that find, in real time, currently running processes
+
+# https://losst.ru/upravlenie-protsessami-v-linux

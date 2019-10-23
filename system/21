@@ -1,0 +1,3 @@
+getent passwd {1000..60000}
+
+# List all real users on the VM

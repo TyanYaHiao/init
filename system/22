@@ -1,0 +1,5 @@
+sudo useradd LOGIN
+
+# Find the command that add a new local user
+
+# https://www.opennet.ru/man.shtml?topic=useradd&category=8&russian=0

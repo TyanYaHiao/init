@@ -1,0 +1,5 @@
+cat /etc/passwd
+
+# List all existing users on the VM
+
+# https://ru.wikipedia.org/wiki/%2Fetc%2Fpasswd

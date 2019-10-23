@@ -9,4 +9,4 @@ set mouse=a
 set hidden
 " >> ~/.vimrc
 
-echo ".vimrc updated"
+echo "\033[0;32m.vimrc updated"

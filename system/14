@@ -1,0 +1,6 @@
+tail -f /var/log/syslog &
+
+# Run the ‘tail -f /var/log/syslog‘ command in background
+
+# https://www.tecmint.com/run-linux-command-process-in-background-detach-process/
+# You can as well run a process directly from the background using the ampersand, & sign.

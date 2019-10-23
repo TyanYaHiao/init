@@ -1,0 +1,5 @@
+sudo fdisk -l
+
+# Name the command that lists the partition tables of drives?
+
+# http://linux-bash.ru/menudisk/41-fdisk.html
